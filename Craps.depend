@@ -1,6 +1,12 @@
 # depslib dependency file v1.0
-1580523855 source:c:\users\arivera\documents\galen\winter 2019\csci 156 - intro to programming\craps\main.cpp
+1581040590 source:c:\users\arivera\documents\galen\winter 2019\csci 156 - intro to programming\craps\main.cpp
 	<iostream>
+	"Craps.h"
+
+1581352755 c:\users\arivera\documents\galen\winter 2019\csci 156 - intro to programming\craps\craps.h
+	<iostream>
+	<fstream>
 	<cstdlib>
+	<ctype.h>
 	<ctime>
 
